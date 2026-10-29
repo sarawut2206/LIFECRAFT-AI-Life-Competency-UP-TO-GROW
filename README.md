@@ -1,3 +1,12 @@
+# ชมผลงาน (สำหรับกรรมการ)
+
+เปิดชมได้ทันที ไม่ต้องใช้รหัสผ่าน : https://sarawut2206.github.io/LIFECRAFT-AI-Life-Competency-UP-TO-GROW/
+
+ลิงก์เข้าตรงโหมดกรรมการ : https://sarawut2206.github.io/LIFECRAFT-AI-Life-Competency-UP-TO-GROW/app/?judge=1
+
+โหมดกรรมการแสดงมุมมองนักเรียน ครู ผู้บริหาร 79 ห้อง และแผนภาพโครงสร้างนวัตกรรม โดยใช้ข้อมูลสมมติทั้งหมด ไม่ใช่นักเรียนจริง ไม่บันทึกข้อมูลลงเครื่อง และไม่ส่งข้อมูลออกไปที่ใด ไฟล์เว็บอยู่ในโฟลเดอร์ `docs/`
+
+---
 # LIFECRAFT AI — HyperFrames 60-second Promo
 
 ## Format
